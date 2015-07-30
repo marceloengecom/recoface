@@ -8,7 +8,7 @@ Trabalho de Conclusão do Curso de Engenharia de Computação
 
 
 
-Este trabalho tem como referência, os trabalho de:
+Este trabalho tem como referência, os trabalhos de:
 Philipp Wagner: http://docs.opencv.org/trunk/modules/contrib/doc/facerec/tutorial/facerec_video_recognition.html
 Pierre Raufast: http://thinkrpi.wordpress.com/2013/06/15/opencvpi-cam-step-7-face-recognition/
 Shervin Emami: http://www.shervinemami.info/faceRecognition.html
