@@ -1,9 +1,10 @@
 recoface
 ========
 BIOMETRIA PESSOAL UTILIZANDO TÉCNICAS PARA A DETECÇÃO E RECONHECIMENTO FACIAL
+
 Trabalho de Conclusão do Curso de Engenharia de Computação
 
-Recomenda-se a leitura da documentação, localizada na pasta "docs".
+> Recomenda-se a leitura da documentação, localizada na pasta "docs".
 
 
 
